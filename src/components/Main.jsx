@@ -84,6 +84,10 @@ function Main() {
                     </div>
                 </div>
             </section>
+            <section className="banner">
+                <span className="banner__title">Get ready to collect our NFT</span>
+                <a className="banner__link" href="#">Get Started</a>
+            </section>
         </div>
     )
 }
